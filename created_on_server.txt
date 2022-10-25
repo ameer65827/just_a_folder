@@ -1,5 +1,0 @@
-to test git pull command
-let's see if it conflicts
-now see conflicts. 
-local line
-hahahahah
